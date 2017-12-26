@@ -9,3 +9,4 @@ cd && wget -O /usr/local/bin/1TB "https://github.com/byvpn/Bandwidth-Limit/raw/m
 
 cd && wget -O /usr/local/bin/2TB "https://github.com/byvpn/Bandwidth-Limit/raw/master/2TB.sh" && chmod +x /usr/local/bin/2TB && 2TB start
 
+
